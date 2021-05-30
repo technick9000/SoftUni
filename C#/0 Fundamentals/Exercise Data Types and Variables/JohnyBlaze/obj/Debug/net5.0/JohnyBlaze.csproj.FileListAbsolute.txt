@@ -1,0 +1,16 @@
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\bin\Debug\net5.0\JohnyBlaze.exe
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\bin\Debug\net5.0\JohnyBlaze.deps.json
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\bin\Debug\net5.0\JohnyBlaze.runtimeconfig.json
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\bin\Debug\net5.0\JohnyBlaze.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\bin\Debug\net5.0\JohnyBlaze.dll
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\bin\Debug\net5.0\ref\JohnyBlaze.dll
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\bin\Debug\net5.0\JohnyBlaze.pdb
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\JohnyBlaze.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\JohnyBlaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\JohnyBlaze.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\JohnyBlaze.AssemblyInfo.cs
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\JohnyBlaze.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\JohnyBlaze.dll
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\ref\JohnyBlaze.dll
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\JohnyBlaze.pdb
+C:\Users\Nick\source\repos\JohnyBlaze\JohnyBlaze\obj\Debug\net5.0\JohnyBlaze.genruntimeconfig.cache
