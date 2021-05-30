@@ -1,0 +1,13 @@
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\bin\Debug\netcoreapp3.1\RandomShiteofthenet.exe
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\bin\Debug\netcoreapp3.1\RandomShiteofthenet.deps.json
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\bin\Debug\netcoreapp3.1\RandomShiteofthenet.runtimeconfig.json
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\bin\Debug\netcoreapp3.1\RandomShiteofthenet.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\bin\Debug\netcoreapp3.1\RandomShiteofthenet.dll
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\bin\Debug\netcoreapp3.1\RandomShiteofthenet.pdb
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\obj\Debug\netcoreapp3.1\RandomShiteofthenet.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\obj\Debug\netcoreapp3.1\RandomShiteofthenet.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\obj\Debug\netcoreapp3.1\RandomShiteofthenet.AssemblyInfo.cs
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\obj\Debug\netcoreapp3.1\RandomShiteofthenet.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\obj\Debug\netcoreapp3.1\RandomShiteofthenet.dll
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\obj\Debug\netcoreapp3.1\RandomShiteofthenet.pdb
+C:\Users\Nick\source\repos\RandomShiteofthenet\RandomShiteofthenet\obj\Debug\netcoreapp3.1\RandomShiteofthenet.genruntimeconfig.cache

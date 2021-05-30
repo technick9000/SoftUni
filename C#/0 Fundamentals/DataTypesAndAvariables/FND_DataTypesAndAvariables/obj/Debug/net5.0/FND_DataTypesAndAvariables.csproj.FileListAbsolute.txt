@@ -1,0 +1,16 @@
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\bin\Debug\net5.0\FND_DataTypesAndAvariables.exe
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\bin\Debug\net5.0\FND_DataTypesAndAvariables.deps.json
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\bin\Debug\net5.0\FND_DataTypesAndAvariables.runtimeconfig.json
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\bin\Debug\net5.0\FND_DataTypesAndAvariables.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\bin\Debug\net5.0\FND_DataTypesAndAvariables.dll
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\bin\Debug\net5.0\ref\FND_DataTypesAndAvariables.dll
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\bin\Debug\net5.0\FND_DataTypesAndAvariables.pdb
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\FND_DataTypesAndAvariables.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\FND_DataTypesAndAvariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\FND_DataTypesAndAvariables.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\FND_DataTypesAndAvariables.AssemblyInfo.cs
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\FND_DataTypesAndAvariables.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\FND_DataTypesAndAvariables.dll
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\ref\FND_DataTypesAndAvariables.dll
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\FND_DataTypesAndAvariables.pdb
+C:\Users\Nick\source\repos\FND_DataTypesAndAvariables\FND_DataTypesAndAvariables\obj\Debug\net5.0\FND_DataTypesAndAvariables.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\bin\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.exe
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\bin\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.deps.json
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\bin\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.runtimeconfig.json
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\bin\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.runtimeconfig.dev.json
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\bin\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.dll
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\bin\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.pdb
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\obj\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.AssemblyInfoInputs.cache
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\obj\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.AssemblyInfo.cs
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\obj\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.csproj.CoreCompileInputs.cache
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\obj\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.dll
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\obj\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.pdb
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\obj\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.genruntimeconfig.cache
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB\SoftUniPB-NestedLoops-14-03-2021\SoftUniPB-NestedLoops-14-03-2021\obj\Debug\netcoreapp3.1\SoftUniPB-NestedLoops-14-03-2021.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\obj\Debug\netcoreapp3.1\SoftUniLab1.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\obj\Debug\netcoreapp3.1\SoftUniLab1.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\obj\Debug\netcoreapp3.1\SoftUniLab1.AssemblyInfo.cs
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\obj\Debug\netcoreapp3.1\SoftUniLab1.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\bin\Debug\netcoreapp3.1\SoftUniLab1.exe
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\bin\Debug\netcoreapp3.1\SoftUniLab1.deps.json
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\bin\Debug\netcoreapp3.1\SoftUniLab1.runtimeconfig.json
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\bin\Debug\netcoreapp3.1\SoftUniLab1.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\bin\Debug\netcoreapp3.1\SoftUniLab1.dll
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\bin\Debug\netcoreapp3.1\SoftUniLab1.pdb
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\obj\Debug\netcoreapp3.1\SoftUniLab1.dll
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\obj\Debug\netcoreapp3.1\SoftUniLab1.pdb
+C:\Users\Nick\source\repos\SoftUniLab1\SoftUniLab1\obj\Debug\netcoreapp3.1\SoftUniLab1.genruntimeconfig.cache

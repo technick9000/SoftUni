@@ -1,0 +1,13 @@
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\bin\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.exe
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\bin\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.deps.json
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\bin\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.runtimeconfig.json
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\bin\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\bin\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.dll
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\bin\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.pdb
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\obj\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\obj\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\obj\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.AssemblyInfo.cs
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\obj\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\obj\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.dll
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\obj\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.pdb
+C:\Users\Nick\source\repos\SoftUniProgrammingBasics-ExtraTasks\SoftUniProgrammingBasics-ExtraTasks\obj\Debug\netcoreapp3.1\SoftUniProgrammingBasics-ExtraTasks.genruntimeconfig.cache

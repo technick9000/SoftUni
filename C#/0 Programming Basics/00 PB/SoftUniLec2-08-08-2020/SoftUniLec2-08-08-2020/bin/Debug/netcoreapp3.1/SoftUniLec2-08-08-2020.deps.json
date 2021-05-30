@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SoftUniLec2-08-08-2020/1.0.0": {
+        "runtime": {
+          "SoftUniLec2-08-08-2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftUniLec2-08-08-2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

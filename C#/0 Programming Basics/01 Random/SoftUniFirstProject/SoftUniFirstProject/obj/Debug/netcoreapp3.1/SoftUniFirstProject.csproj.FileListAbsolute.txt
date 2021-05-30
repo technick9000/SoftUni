@@ -1,0 +1,13 @@
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\bin\Debug\netcoreapp3.1\SoftUniFirstProject.exe
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\bin\Debug\netcoreapp3.1\SoftUniFirstProject.deps.json
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\bin\Debug\netcoreapp3.1\SoftUniFirstProject.runtimeconfig.json
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\bin\Debug\netcoreapp3.1\SoftUniFirstProject.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\bin\Debug\netcoreapp3.1\SoftUniFirstProject.dll
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\bin\Debug\netcoreapp3.1\SoftUniFirstProject.pdb
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\obj\Debug\netcoreapp3.1\SoftUniFirstProject.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\obj\Debug\netcoreapp3.1\SoftUniFirstProject.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\obj\Debug\netcoreapp3.1\SoftUniFirstProject.AssemblyInfo.cs
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\obj\Debug\netcoreapp3.1\SoftUniFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\obj\Debug\netcoreapp3.1\SoftUniFirstProject.dll
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\obj\Debug\netcoreapp3.1\SoftUniFirstProject.pdb
+C:\Users\Nick\source\repos\SoftUniFirstProject\SoftUniFirstProject\obj\Debug\netcoreapp3.1\SoftUniFirstProject.genruntimeconfig.cache

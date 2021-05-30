@@ -1,0 +1,13 @@
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\bin\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.exe
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\bin\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.deps.json
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\bin\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.runtimeconfig.json
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\bin\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.runtimeconfig.dev.json
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\bin\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.dll
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\bin\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.pdb
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\obj\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.csprojAssemblyReference.cache
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\obj\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.AssemblyInfoInputs.cache
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\obj\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.AssemblyInfo.cs
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\obj\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.csproj.CoreCompileInputs.cache
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\obj\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.dll
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\obj\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.pdb
+N:\Projects\0 SoftUni\C#\0 Programming Basics\00 PB Past Exams\29-03-2020\SoftUniPBPastExams-29-03-2020\SoftUniPBPastExams-29-03-2020\obj\Debug\netcoreapp3.1\SoftUniPBPastExams-29-03-2020.genruntimeconfig.cache

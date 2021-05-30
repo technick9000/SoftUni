@@ -1,0 +1,12 @@
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\bin\Debug\netcoreapp3.1\SoftUniLab14-02-2020.exe
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\bin\Debug\netcoreapp3.1\SoftUniLab14-02-2020.deps.json
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\bin\Debug\netcoreapp3.1\SoftUniLab14-02-2020.runtimeconfig.json
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\bin\Debug\netcoreapp3.1\SoftUniLab14-02-2020.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\bin\Debug\netcoreapp3.1\SoftUniLab14-02-2020.dll
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\bin\Debug\netcoreapp3.1\SoftUniLab14-02-2020.pdb
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\obj\Debug\netcoreapp3.1\SoftUniLab14-02-2020.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\obj\Debug\netcoreapp3.1\SoftUniLab14-02-2020.AssemblyInfo.cs
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\obj\Debug\netcoreapp3.1\SoftUniLab14-02-2020.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\obj\Debug\netcoreapp3.1\SoftUniLab14-02-2020.dll
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\obj\Debug\netcoreapp3.1\SoftUniLab14-02-2020.pdb
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\SoftUniLab14-02-2020\obj\Debug\netcoreapp3.1\SoftUniLab14-02-2020.genruntimeconfig.cache

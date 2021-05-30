@@ -1,0 +1,13 @@
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\bin\Debug\netcoreapp3.1\PogChamp.exe
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\bin\Debug\netcoreapp3.1\PogChamp.deps.json
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\bin\Debug\netcoreapp3.1\PogChamp.runtimeconfig.json
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\bin\Debug\netcoreapp3.1\PogChamp.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\bin\Debug\netcoreapp3.1\PogChamp.dll
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\bin\Debug\netcoreapp3.1\PogChamp.pdb
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\obj\Debug\netcoreapp3.1\PogChamp.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\obj\Debug\netcoreapp3.1\PogChamp.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\obj\Debug\netcoreapp3.1\PogChamp.AssemblyInfo.cs
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\obj\Debug\netcoreapp3.1\PogChamp.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\obj\Debug\netcoreapp3.1\PogChamp.dll
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\obj\Debug\netcoreapp3.1\PogChamp.pdb
+C:\Users\Nick\source\repos\SoftUniLab14-02-2020\PogChamp\obj\Debug\netcoreapp3.1\PogChamp.genruntimeconfig.cache

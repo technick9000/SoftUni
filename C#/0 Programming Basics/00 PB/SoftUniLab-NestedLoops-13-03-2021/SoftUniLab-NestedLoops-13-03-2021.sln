@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniLab-NestedLoops-13-03-2021", "SoftUniLab-NestedLoops-13-03-2021\SoftUniLab-NestedLoops-13-03-2021.csproj", "{0DF65FC4-CA0B-430F-9569-232C7D4BF341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF65FC4-CA0B-430F-9569-232C7D4BF341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF65FC4-CA0B-430F-9569-232C7D4BF341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF65FC4-CA0B-430F-9569-232C7D4BF341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF65FC4-CA0B-430F-9569-232C7D4BF341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A2AA7EA-CE35-49FE-A4A4-704922274305}
+	EndGlobalSection
+EndGlobal
