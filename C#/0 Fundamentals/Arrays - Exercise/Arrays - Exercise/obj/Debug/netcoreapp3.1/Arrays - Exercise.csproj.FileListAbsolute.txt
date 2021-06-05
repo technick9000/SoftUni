@@ -1,0 +1,13 @@
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\bin\Debug\netcoreapp3.1\Arrays - Exercise.exe
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\bin\Debug\netcoreapp3.1\Arrays - Exercise.deps.json
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\bin\Debug\netcoreapp3.1\Arrays - Exercise.runtimeconfig.json
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\bin\Debug\netcoreapp3.1\Arrays - Exercise.runtimeconfig.dev.json
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\bin\Debug\netcoreapp3.1\Arrays - Exercise.dll
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\bin\Debug\netcoreapp3.1\Arrays - Exercise.pdb
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\obj\Debug\netcoreapp3.1\Arrays - Exercise.csproj.AssemblyReference.cache
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\obj\Debug\netcoreapp3.1\Arrays - Exercise.AssemblyInfoInputs.cache
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\obj\Debug\netcoreapp3.1\Arrays - Exercise.AssemblyInfo.cs
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\obj\Debug\netcoreapp3.1\Arrays - Exercise.csproj.CoreCompileInputs.cache
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\obj\Debug\netcoreapp3.1\Arrays - Exercise.dll
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\obj\Debug\netcoreapp3.1\Arrays - Exercise.pdb
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Arrays - Exercise\Arrays - Exercise\obj\Debug\netcoreapp3.1\Arrays - Exercise.genruntimeconfig.cache
