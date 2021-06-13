@@ -1,0 +1,16 @@
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.exe
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.deps.json
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.runtimeconfig.json
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.runtimeconfig.dev.json
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.dll
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\ref\Methods - Exercise.dll
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.pdb
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.csproj.AssemblyReference.cache
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.AssemblyInfoInputs.cache
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.AssemblyInfo.cs
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.csproj.CoreCompileInputs.cache
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.dll
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\ref\Methods - Exercise.dll
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.pdb
+N:\Projects\0 SoftUni\C#\0 Fundamentals\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.genruntimeconfig.cache
